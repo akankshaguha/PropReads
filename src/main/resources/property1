@@ -1,0 +1,4 @@
+#ProjectName=TemplateProject
+entryfun1={"package":"com.bitwiseglobal.postfix.Main", "function":"FunctionName1","type":["String","int"]}
+entryfun2={"package":"com.bitwiseglobal.postfix.Main2", "function":"FunctionName2","type":["String","int"]}
+entryfun3={"package":"com.bitwiseglobal.postfix.Main3", "function":"FunctionName3","type":["String","int"]}
